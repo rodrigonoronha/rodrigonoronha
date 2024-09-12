@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rodrigo Noroha... and I'm from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Rodrigo Noronha, welcome to my portfolio!!</h2>
 
 ###
 
